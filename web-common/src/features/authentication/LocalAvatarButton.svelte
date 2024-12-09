@@ -65,7 +65,7 @@
     </DropdownMenu.Trigger>
     <DropdownMenu.Content>
       <DropdownMenu.Item
-        href="https://docs.rilldata.com"
+        href="#"
         target="_blank"
         rel="noreferrer noopener"
         class="text-gray-800 font-normal"
@@ -73,7 +73,7 @@
         Documentation
       </DropdownMenu.Item>
       <DropdownMenu.Item
-        href="https://discord.com/invite/ngVV4KzEGv?utm_source=rill&utm_medium=rill-cloud-avatar-menu"
+        href="#"
         target="_blank"
         rel="noreferrer noopener"
         class="text-gray-800 font-normal"

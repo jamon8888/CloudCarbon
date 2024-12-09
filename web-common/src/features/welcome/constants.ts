@@ -1,1 +1,1 @@
-export const EMPTY_PROJECT_TITLE = "Untitled Rill Project";
+export const EMPTY_PROJECT_TITLE = "Untitled Cloud Carbon Project";

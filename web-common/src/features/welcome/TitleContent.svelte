@@ -27,7 +27,7 @@
     <span
       class="bg-gradient-to-r from-primary-900 to-primary-800 text-transparent bg-clip-text opacity-75"
     >
-      Welcome to Rill
+      Welcome to Hacienda CloudCarbon
     </span>
   </RadixH1>
   <div class="flex flex-col gap-y-2">

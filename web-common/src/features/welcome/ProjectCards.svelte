@@ -20,19 +20,19 @@
 
   const EXAMPLES = [
     {
-      name: "rill-cost-monitoring",
+      name: "cost-monitoring",
       title: "Cost Monitoring",
       description: "Monitoring cloud infrastructure",
       image: "/img/welcome-bg-cost-monitoring.png",
     },
     {
-      name: "rill-openrtb-prog-ads",
+      name: "openrtb-prog-ads",
       title: "OpenRTB Programmatic Ads",
       description: "Real-time Bidding (RTB) advertising",
       image: "/img/welcome-bg-openrtb.png",
     },
     {
-      name: "rill-github-analytics",
+      name: "github-analytics",
       title: "Github Analytics",
       description: "A Git project's commit activity",
       image: "/img/welcome-bg-github-analytics.png",
